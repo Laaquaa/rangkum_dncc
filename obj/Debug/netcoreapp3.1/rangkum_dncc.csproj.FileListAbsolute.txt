@@ -1,0 +1,13 @@
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.exe
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.deps.json
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.runtimeconfig.json
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.runtimeconfig.dev.json
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.dll
+E:\Ngoding\rangkum_dncc\bin\Debug\netcoreapp3.1\rangkum_dncc.pdb
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.csprojAssemblyReference.cache
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.AssemblyInfoInputs.cache
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.AssemblyInfo.cs
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.csproj.CoreCompileInputs.cache
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.dll
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.pdb
+E:\Ngoding\rangkum_dncc\obj\Debug\netcoreapp3.1\rangkum_dncc.genruntimeconfig.cache
